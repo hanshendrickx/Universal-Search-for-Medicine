@@ -19,5 +19,5 @@ https://github.com/hanshendrickx/Universal-Search-for-Medicine/blob/master/smart
 1. Go to https://github.com/hanshendrickx/Universal-Search-for-Medicine
 2. Download the zip file from git, f.e. on your desktop
 3. If no zip reader available go to https://www.wikihow.com/Open-a-.Zip-File-Without-Winzip
-4. Open the zip file by doublle click and then
+4. Open the zip file by double click and then
 5. Click index.html

@@ -1,5 +1,4 @@
 # Universal-Search for the Domain Medicine
-## (What you get..https://github.com/hanshendrickx/Universal-Search-for-Medicine/blob/master/smartuse.png)
 Universal Search for Medicine is a web tool for smart searching the domain of Medicine. 
 Text input is needed once, this text input is used in 100 search strings, mainly
 through google. The search strings are collected in a matrix, which combine different
@@ -14,4 +13,4 @@ and you will be directed to sites in that language.
 
 Please drop a note by clicking the text at the bottom.
 
-
+https://github.com/hanshendrickx/Universal-Search-for-Medicine/blob/master/smartuse.png

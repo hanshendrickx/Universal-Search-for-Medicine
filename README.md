@@ -11,6 +11,10 @@ go to 'General Information' and click 'Guidelines' and 'Wikepedia'.
 If you want to use different languages just type french or german or other language,
 and you will be directed to sites in that language.
 
-Please drop a note by clicking the text at the bottom.
+If the tool is opened in your browser: Please drop a note by clicking the text at the bottom.
 
 https://github.com/hanshendrickx/Universal-Search-for-Medicine/blob/master/smartuse.png
+
+# How to download and start?
+1. Go to https://github.com/hanshendrickx/Universal-Search-for-Medicine
+2. Download the zip file from git

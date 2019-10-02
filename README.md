@@ -1,2 +1,2 @@
-# Universal-Search-for-Medicine
-This web app helps to search the domain of Medicine
+# Universal-Search
+Describing Universal Search for Medicine

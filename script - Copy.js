@@ -26,7 +26,6 @@ function myFunction() {
   }
 }
 
-//https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_eff_show_hide
 function showMatrix() {
   //var x = document.getElementById("myDIV");
   //if (x.style.display === "none") {
@@ -38,13 +37,6 @@ function showMatrix() {
   });
 }
 
-//https://stackoverflow.com/questions/2572333/google-chrome-window-open-workaround 
-setTimeout(function () {
-    window.open(
-        url, 'name', 'toolbar=1, scrollbars=1, location=1, statusbar=0, menubar=1, resizable=1, width=800, height=600'
-    );
-}, 1);
-
-
+//https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_eff_show_hide
 
 

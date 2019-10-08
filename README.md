@@ -1,12 +1,13 @@
-# Best use of screen
-1. Open the index.html 
-2. **If this opens in full screen:
-    - Go to right upper corner and click once. The full screen Tab will resize to smaller.
-    - Type search, f.e. Fever I agree - Submit
-    - Open link, f.e. Signs & Symptoms. This opens in a new Tab, called '_MP'
-3. Click and hold this Tab's Name ( Signs & Symptoms) AND drag free from the window AND place to the right
-4. Now you should see 2 windows: A the matrix, and B the results of signs and symptoms of fever
-5. Continue clicking through the smart links in the Matrix (left) tab
+# How to download and start?
+1. Go to https://github.com/hanshendrickx/Universal-Search-for-Medicine
+2. Download the zip file from git, f.e. on your desktop
+3. If no zip reader available go to https://www.wikihow.com/Open-a-.Zip-File-Without-Winzip
+4. Open the zip file by double click and then
+5. Click index.html
+6. Resize the browser to ablout 50 of screen width and 90% of height
+7. Start and open the searches
+8. Drag the search results tab to the right of the screen
+9. This way you have two tabs open, left the matrix with links, right the resulting search screen
 
 # Universal-Search for the Domain Medicine
 Universal Search for Medicine is a web tool for smart searching the domain of Medicine. 
@@ -23,6 +24,6 @@ and you will be directed to sites in that language.
 
 If the tool is opened in your browser: Please drop a note by clicking the text at the bottom.
 
+https://github.com/hanshendrickx/Universal-Search-for-Medicine/blob/master/smartuse.png
 
 
-    

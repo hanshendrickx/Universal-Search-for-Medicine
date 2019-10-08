@@ -35,5 +35,6 @@ https://github.com/hanshendrickx/Universal-Search-for-Medicine/blob/master/smart
     - Enter f.e. Fever, submit/I agree: you will open the matrix window
     - Then, click on f.e. signs & symptoms; this opens new Tab
     - Drag this Tab to the right from the Matrix Tab
-4. Now, you should see the splitscreen    
+4. Now, you should see the splitscreen  
+at https://github.com/hanshendrickx/Universal-Search-for-Medicine/blob/master/splitscreen.png
     
